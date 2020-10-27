@@ -1,0 +1,20 @@
+{
+    "Author": "wasserja",
+    "ContentSize": 5080,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/getazurepubliciplist/master/Get-AzurePublicIPList.ps1",
+    "DownloadCount": 988,
+    "Id": "Get-AzurePublicIpList-928b0a0d",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 495,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2016-2-17T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "When working with Azure firewall appliances and user-defined routing, it is helpful to have the list of Azure public IP addresses for the various Azure services and resources for the regions that you are using. Microsoft provides a XML file that you can download and then parse",
+    "Title": "Get-AzurePublicIpList",
+    "UpdatedDate": "2016-2-17T00:00:00",
+    "Url": "https://github.com/azureautomation/getazurepubliciplist",
+    "UserTags": ""
+}
